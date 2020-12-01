@@ -1,3 +1,7 @@
+fn functions() {
+    
+}
+
 fn main() {
-    println!("Hello, world!");
+    functions();
 }
